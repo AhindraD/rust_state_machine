@@ -1,5 +1,8 @@
 # Rust State Machine
 
+![image](https://github.com/user-attachments/assets/072edd16-8961-4e35-9ce2-4801ea70e487)
+
+
 This repository is the basis for a tutorial teaching how to develop a simple state machine using Rust.
 
 ## Goal
